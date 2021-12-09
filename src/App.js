@@ -49,7 +49,7 @@ function App() {
             </Row>
             <div style={{ height: 25 }}></div>
             <Row xs={10} md={10}>
-              <Button><img src={layrlogs} alt="logs" onClick={() => openInNewTab('https://18.223.121.155:4200/?terminal_id=b9a51491eff84c147f313db1dbac80d7#B5+wBCqozYAjGQECtQj+2g==')}
+              <Button><img src={layrlogs} alt="logs" onClick={() => openInNewTab('https:/http://18.223.121.155/?terminal_id=12bbb87dab6ca4ef69a51b220492278e#ibJLq8zBUKUsGOj7i8DSXw==')}
               /></Button>
             </Row>
             <div style={{ height: 25 }}></div>
